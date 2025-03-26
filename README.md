@@ -1,6 +1,6 @@
 # QR Code Generator Website
 
-![PharmaShop Preview](images/preview.jpeg) <!-- Replace with a screenshot -->
+![QR-Code-Generator-Website Preview](public/preview.jpeg) <!-- Replace with a screenshot -->
 
 ## Setup Instructions
 1. Install Node.js (if not already installed)
