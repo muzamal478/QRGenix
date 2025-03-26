@@ -1,5 +1,7 @@
 # QR Code Generator Website
 
+![Website Preview]("/public/Preview.jpeg")
+
 ## Setup Instructions
 1. Install Node.js (if not already installed)
 2. Clone this repository
