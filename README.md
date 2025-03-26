@@ -1,6 +1,6 @@
 # QR Code Generator Website
 
-![Website Preview]("Preview.jpeg")
+![Website Preview]("https://github.com/muzamal478/QRGenix/blob/main/Preview.jpeg")
 
 ## Setup Instructions
 1. Install Node.js (if not already installed)
