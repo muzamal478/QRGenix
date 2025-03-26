@@ -1,0 +1,13 @@
+{
+    "name": "qr-code-generator",
+    "version": "1.0.0",
+    "description": "A modern QR code generator website",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2",
+      "qrcode": "^1.5.3"
+    }
+  }

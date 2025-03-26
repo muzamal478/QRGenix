@@ -1,22 +1,27 @@
-# QRGenix
-A modern, responsive QR code generator website built with HTML, CSS, and JavaScript. Features instant QR code creation, a sleek UI with animations, and easy download/share options.
-
-# QRGenix - QR Code Generator
-
-A modern, responsive single-page website that generates QR codes instantly. Built with HTML, CSS, and JavaScript, this project features a sleek UI with animations, multiple sections (Hero, About, Features, Offers, Contact), and a professional footer design.
-
-## Features
-- Instant QR code generation from URLs or text
-- Responsive design optimized for all devices
-- Edit, share, and download QR code options
-- Smooth animations using Anime.js
-- Professional UI with Bootstrap and custom CSS
-
-## Demo
-[Live Demo](#) *(Update this link after hosting on GitHub Pages)*
+# QR Code Generator Website
 
 ## Setup Instructions
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/muzamal478/QRGenix.git
-  
+1. Install Node.js (if not already installed)
+2. Clone this repository
+3. Run `npm install` in the project directory
+4. Run `npm start` to start the server
+5. Open `http://localhost:3000` in your browser
+
+## Features
+- Responsive single-page application
+- Modern UI with animations
+- QR code generation functionality
+- Multiple sections (Hero, About, Features, Offers, Contact)
+- Professional footer design
+
+## Dependencies
+- Bootstrap 5.3.0
+- Font Awesome 6.4.0
+- Anime.js for animations
+- Express.js for backend
+- QRCode.js for QR generation
+
+## Customization
+- Replace placeholder images in the HTML (marked with `data-placeholder`)
+- Modify colors and styles in `style.css`
+- Update content in `index.html`
